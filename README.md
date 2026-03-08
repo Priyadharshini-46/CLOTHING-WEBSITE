@@ -1,4 +1,4 @@
-# FUTURE_FS_03
+
 ## Frontend E-Commerce Website (startling-babka-729501.netlify.app)
 This is a fully responsive frontend e-commerce web application developed using HTML, CSS, and JavaScript. The project replicates the core functionality of a modern fashion shopping platform with structured navigation, real-time filtering, and interactive UI components — all without backend integration.
 
